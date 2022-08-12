@@ -1,2 +1,2 @@
 # discostream
-A fork of the Disco notebook taylored for my personal taste. 
+A fork of the [Disco Diffusion](https://discodiffusion.com/) notebook taylored for my personal taste. 

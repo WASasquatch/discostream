@@ -20,6 +20,7 @@ Come and create something new and exciting with us!</font>
 
 ## **Other Tools:**
 
+- [Easy Diffusion] - A Stable Diffusion notebook with tons of features and filters. 
 - [WAS's Disco Diffusion v5.6-8 - Portrait Playground](https://rebrand.ly/portrait-playground) - A fork of Disco Diffusion that additionally, DiscoStream is forked from.
 - [OpenAI Guided Diffusion - Model Training / Fine-Tuning](https://rebrand.ly/guided-diffusion) - A implementation of OpenAI's Guided Diffusion in Google Colabs
 - [Noodle Soup Prompts](https://rebrand.ly/noodle-soup-prompts) - Terminology Database for prompt exploration
